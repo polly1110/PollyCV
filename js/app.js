@@ -187,11 +187,24 @@ $(function() {
 
 	w.load("<h1 class='writecode'>PROFESSIONAL EXPERIENCE</h1>");
 	w.load("<ul>");
-	w.load("<p> <br>Demand Generation Specialist, ITWC, Toronto, ON &nbsp; March 2020 &#8211; August 2021</p>")
-	w.load("<li class='writecode'>Extracted 10k+ audience info from channels, with python and Excel. Create campaign reports, reported to 5 PMs weekly.</li>");
-	w.load("<li class='writecode'>Tracked and analyzed advertising data/PPC plan thru Facebook, google ads to enhance advertising strategies, saved 15% on Facebook paid ad plan.</li>");
+	w.load("<p> <b>Data analyst</b>, Red Cube Production &nbsp; November 2021 &#8211; September 2022</p>")
+	w.load("<li class='writecode'>Analyzed marketing & sales data with python to segment and filter 1k+ raw sales data, visualized into reports using Tableau/Excel, and delivered to stakeholders <br> on a weekly basis.</li>");
+	w.load("<li class='writecode'>Tracked and analyzed advertising data/PPC plan through Facebook, google ads to enhance advertising strategies, saved 15% on Facebook paid ad plan.</li>");
 	w.load("<li class='writecode'>Designed and built Sales DB(SQL), shorted order checked time by 1 hour per day.</li>");
-	w.load("<p> <br>Data analyst, Red Cube Production &nbsp; November 2021 &#8211; September 2022</p>")
+	w.load("<p> <b>Demand Generation Specialist</b>, ITWC, Toronto, ON &nbsp; March 2020 &#8211; August 2021 </p>")
+	w.load("<li class='writecode'>Extracted 10k+ audience info from channels, with python and Excel. Create campaign reports, reported to 5 PMs weekly.</li>");
+	w.load("<li class='writecode'>Maintained and operated audience service database (SQL), Set up ETL data pipelines, performed data quality control using python and decreased the churn rate by 3%.</li>");
+	w.load("<li class='writecode'>Collaborated with Email marketing team, and optimized audience retention strategy by performing A/B testing for promo emails within a quarter, achieving a 10% <br> maximum lift on email opening rate.</li>");
+	w.load("<li class='writecode'>Designed 4 auto dashboards, monitored campaign health, created campaign track reports every 30 mins with ERP system, optimizing on-time rate by 12%.</li>");
+	w.load("<li class='writecode>Presented insights to stakeholders, help with business decision-making.</li>")
+	w.load("<p> <b>Software Developer</b>, Net2net IT Solution, Mississauga, ON &nbsp; September 2019 &#8211; December 2019 </p>")
+	w.load("<li class='writecode>Performed and evaluated A/B testing to optimize booking payment port for Craig Travel, executed 4 versions of the home pages & booking forms with a result of improving ROI by 4%.</li>")
+	w.load("<li class='writecode>Enhanced SEO effort & conversion funnel with Google Analytics, lucky orange, Mozbar to merge paid traffic plan and saved 4k budget for small business.</li>")
+	w.load("<li class='writecode>Developed testimonial module in admin port and updated 3 testimonial templates with 8+ default photos based on Nopcommerce (e-commerce framework), decreased the cart drop rate by 5%, as one test version in A/B testing.</li>")
+	w.load("<li class='writecode>Presented new-add functions to clients (both tech&non-tech) before each delivery.</li>")
+	w.load("<p> <b>Front-end Developer</b>, Beaver Cryptocurrency, Hamilton, ON &nbsp; September 2018 &#8211; June 2019 </p>")
+	w.load("<li class='writecode>Fetched JSON data through API rendering data on pages with Redux to control & track states and managed multi-user requests using asynchronous and built functions for exception/ error handling.</li>")
+	w.load("<li class='writecode>Implemented 30% back-end Rest API document through Swagger, utilized Python/Django to implement sign-in authentication and restful web service to realize data interaction between front and back end.</li>")
 	w.load("</ul>");
 
 	

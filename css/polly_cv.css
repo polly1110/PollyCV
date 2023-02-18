@@ -23,7 +23,7 @@
 	background: rgb(48, 48, 48);
 	border: 1px solid #ccc;
 	max-height: 94.5%;
-	width: 49%;
+	width: 58%;
 	font-size: 14px;
 	font-family: monospace;
 	padding: 10px 10px 20px;
@@ -45,8 +45,8 @@
 .writecode {
 	overflow: hidden;
 	white-space: nowrap;
-	animation: coder 2s;
-	-webkit-animation: coder 2s;
+	animation: coder 1s;
+	-webkit-animation: coder 1s;
 }
 
 @keyframes coder {
