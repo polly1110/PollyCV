@@ -172,7 +172,8 @@ $(function() {
 
 	w.load("<h1 class='writecode'>Contact ME</h1>");
 	w.load("<ul>");
-	w.load("<li class='writecode'>Email:miru11104627@gmail.com</li>");
+
+	w.load("<li class='writecode'>Email:<a href='mailto:fan.pang4627@gmail.com'>fan.pang4627@gmail.com</a></li>");
 	w.load("<li class='writecode'>linkedin:<a href='https://www.linkedin.com/in/fanpang/'>www.linkedin.com/in/fanpang</a></li>");
 
 	w.load("<h1 class='writecode'>SKILLS</h1>");
