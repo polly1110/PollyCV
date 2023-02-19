@@ -201,7 +201,7 @@ $(function() {
 	w.load("<li class='writecode>Presented insights to stakeholders, help with business decision-making.</li>");
 
 	w.load("<p> <b>oftware Developer</b>, Net2net IT Solution, Mississauga, ON &nbsp; September 2019 &#8211; December 2019 </p>");
-	w.load("<li class='writecode'>Performed and evaluated A/B testing to optimize booking payment port for Craig Travel, executed 4 versions of the home pages & booking forms with a result of improving ROI by 4%.</li>");
+	w.load("<li class='writecode'>Performed and evaluated A/B testing to optimize booking payment port for Craig Travel, executed 4 versions of the home pages & booking forms with a result of improving ROI <br> by 4%.</li>");
 	w.load("<li class='writecode'>Enhanced SEO effort & conversion funnel with Google Analytics, lucky orange, Mozbar to merge paid traffic plan and saved 4k budget for small business.</li>");
 	w.load("<li class='writecode'>Presented new-add functions to clients (both tech&non-tech) before each delivery.</li>");
 	w.load("<li class='writecode'>Designed 4 auto dashboards, monitored campaign health, created campaign track reports every 30 mins with ERP system, optimizing on-time rate by 12%.</li>");
